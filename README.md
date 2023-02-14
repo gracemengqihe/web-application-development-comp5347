@@ -1,5 +1,5 @@
 # Wikipedia Analytic Web Application
-**COMP5347 Assignment2  Group 17**
+
 
 ### How to Deploy
 change directory to the project directiory
